@@ -48,4 +48,4 @@ const intento16 = reemplazarPista (intento15, '¡', 'd');
 const intento17 = reemplazarPista (intento16, '¿', 'y');
 const intento18 = reemplazarPista (intento17, '}', 'q');
 const intento19 = reemplazarPista (intento18, '#', 'v');
-console.log(intento19);
+console.log('Mensaje desencriptado:',intento19);
